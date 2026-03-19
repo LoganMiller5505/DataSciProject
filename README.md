@@ -4,5 +4,6 @@ Structure of data folder (TO BE UPDATED AS THE PROJECT PROGRESSES)
 data/
 ├── 0_raw_data/
 │   └── dataset.csv
-└── 1_preprocessed/
+├── 1_preprocessed/
+│   └── preprocessed_dataset.csv
 ```
