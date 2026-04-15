@@ -6,8 +6,6 @@ data/
 │   └── dataset.csv
 ├── 1_preprocessed/
 │   └── preprocessed_dataset.csv
-├── 2_clustered/
-│   └── clustered_dataset.csv
-├── 3_engineered/
-│   └── engineered_dataset.csv
+└── 2_clustered/
+    └── clustered_dataset.csv
 ```
